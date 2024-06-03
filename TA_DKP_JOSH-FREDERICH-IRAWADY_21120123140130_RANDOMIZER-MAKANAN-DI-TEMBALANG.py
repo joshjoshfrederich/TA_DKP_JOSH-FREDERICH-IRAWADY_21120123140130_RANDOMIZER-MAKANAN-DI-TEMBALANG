@@ -1,6 +1,5 @@
 import tkinter as tk
 import random
-import os
 from collections import deque
 
 # Daftar makanan di Tembalang dengan informasi tambahan
